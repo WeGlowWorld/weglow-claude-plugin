@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "weglow": {
+      "type": "http",
+      "url": "https://mcp.weglow.world"
+    }
+  }
+}

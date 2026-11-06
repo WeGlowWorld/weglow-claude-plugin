@@ -1,0 +1,13 @@
+{
+  "name": "weglow",
+  "displayName": "WeGlow",
+  "version": "1.0.0",
+  "description": "Raise money for a non-profit with WeGlow from the chat: campaigns, Christmas campaigns, events, donation pages and forms, thank-you mails and a weekly check-in. Nothing goes live or is sent without your yes.",
+  "author": {
+    "name": "WeGlow",
+    "url": "https://weglow.world"
+  },
+  "homepage": "https://weglow.world",
+  "license": "MIT",
+  "keywords": ["fundraising", "non-profit", "charity", "donations", "events"]
+}
