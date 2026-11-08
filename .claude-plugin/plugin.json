@@ -9,5 +9,13 @@
   },
   "homepage": "https://weglow.world",
   "license": "MIT",
-  "keywords": ["fundraising", "non-profit", "charity", "donations", "events"]
+  "keywords": [
+    "fundraising",
+    "non-profit",
+    "charity",
+    "donations",
+    "events"
+  ],
+  "privacyPolicyUrl": "https://weglow.world/privacy-policy",
+  "icon": "./icon.png"
 }
